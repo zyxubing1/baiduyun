@@ -1,5 +1,4 @@
-# A2DH
-油猴脚本 百度网盘不限速 哔哩哔哩大会员解析<br><br>
+油猴脚本 百度网盘不限速 哔哩哔哩大会员解析 油管视频下载<br><br>
 此脚本须搭配Tampermoney Beta版使用，即红色图标的那个。<br>
 在浏览器未被第三方软件篡改污染的情况下，使用Tampermoney正式版也没问题，但还是建议使用beta版的Tampermoney。<br>
 微软的Edge浏览器例外，貌似只有Tampermonkey的正式版，配合正式版的Tampermonkey使用也没问题，前提条件是Edge浏览器干净无污染。<br>
