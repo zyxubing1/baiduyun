@@ -34,7 +34,7 @@ https://gitee.com/zyxubing/codes/heq3slzy8dm1b7iprwvj633/raw?blob_name=A2DH<br>
 <img src="https://s1.ax1x.com/2020/08/03/adJS5F.jpg"><br>
 <br>
 哔哩哔哩视频下载<br>
-可直接下载仅限会员的1080+，4K视频以及番剧，在播放区域下方会出现一个下载按钮，多P视频在点击下载后会出现选择界面，勾选需要下载的视频项再点击下载即可。<br>
+可下载1080+，4K的视频以及番剧，在播放区域下方会出现一个下载按钮，多P视频在点击下载后会出现选择界面，勾选需要下载的视频项再点击下载即可。<br>
 <img src="https://s1.ax1x.com/2020/08/03/adJkK1.jpg"><br>
 <br>
 动漫图片资源站 https://konachan.com/<br>
